@@ -31,7 +31,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/sadafsiddiquii" target="blank"><img loading="lazy" class="aligncenter size-medium wp-image-56269" src="https://static.licdn.com/aero-v1/sc/h/aahlc8ivbnmk0t3eyz8as5gvr" alt="Linkedin Logo" width="150" height="76" ></a>
+<a href="https://www.linkedin.com/in/sadafsiddiquii/" target="blank"><img loading="lazy" class="aligncenter size-medium wp-image-56269" src="https://static.licdn.com/aero-v1/sc/h/aahlc8ivbnmk0t3eyz8as5gvr" alt="Linkedin Logo" width="150" height="76" ></a>
   <br>
   <a href="https://www.fiverr.com/sadafsid?up_rollout=true" target="blank"><img class="img-responsive disableRightClick" title="free PNG fiverr logo transparent PNG image with transparent background PNG images transparent" alt="free PNG fiverr logo transparent PNG image with transparent background PNG images transparent" style="display: inline-block;" src="https://toppng.com/uploads/preview/fiverr-logo-transparent-11549536390u5hvvdkxbd.png" width="150" height="106"></a>
 </p>

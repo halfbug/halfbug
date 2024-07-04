@@ -18,11 +18,13 @@
     <li><strong>Testing with Jest & Enzyme:</strong> Test-Driven Development (TDD) is integral to my workflow. I use Jest and Enzyme for comprehensive unit and integration testing, ensuring robust and bug-free applications.</li>
     <li><strong>RESTful and GraphQL APIs:</strong> I have extensive experience in developing RESTful APIs and GraphQL APIs using Node.js and Express.js, combined with TypeORM for efficient data management.</li>
     <li><strong>Cloud Deployment (AWS):</strong> I'm well-versed in deploying applications on cloud platforms, including AWS (Amazon Web Services), utilizing services like EC2 and Amplify for scalable and reliable hosting.</li>
+    <li><strong>Database:</strong> I have worked with both SQL and NoSQL databases, including MySQL and PostgreSQL. I am well-versed in relational database design, normalization, and creating complex queries with joins. In NoSQL databases like MongoDB, I have managed data by introducing indexes and using aggregation to retrieve data from sub-documents or multiple collections.
+</li>
 </ul>
 
 <h2>Generative AI Experience</h2>
 <p>
-    In addition to my web development expertise, I'm currently working on a project involving generative AI. I'm developing a bot that conducts research on the web to provide information for product inventory management. I'm utilizing advanced language models such as Langchain by OpenAI and RAG (Retrieval-Augmented Generation) for web search, which has further enhanced my problem-solving skills and ability to innovate.
+    In addition to my web development expertise, I'm currently working on a project involving generative AI. I'm developing a bot that researches on the web to provide information for product inventory management. I'm utilizing advanced language models such as OpenAI, Langchain Python, and RAG (Retrieval-Augmented Generation) for web search, further enhancing my problem-solving skills and innovation ability.
 </p>
 
 <p>

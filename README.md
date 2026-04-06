@@ -1,9 +1,9 @@
 <section>
   <p>
-    I'm <strong>Sadaf Siddiqui</strong>, a Full-Stack Engineer currently focused on building
+    I'm <strong>Sadaf Siddiqui</strong>, a <strong>Product Owner &amp; Technical Leader</strong> and Full-Stack Engineer focused on building
     <strong>cost-efficient, production-grade AI systems</strong> using
     <strong>AWS Lambda, Bedrock Foundation Models, API Gateway</strong>, and
-    <strong>containerized FastAPI services deployed via ECR</strong>, with
+    <strong>containerized FastAPI services via ECR</strong>, with
     <strong>Terraform-driven infrastructure</strong> for scalable and reproducible deployments.
   </p>
 
@@ -11,20 +11,29 @@
     I specialize in <strong>agentic AI workflows</strong>, designing
     <strong>self-correcting, multi-step systems</strong> using
     <strong>LangGraph, LangChain (Python), and OpenAI models</strong>. My work emphasizes
-    reliability and evaluation, combining <strong>LLM-as-a-judge patterns</strong> with
-    <strong>programmatic validation techniques</strong> such as Flesch-Kincaid readability metrics
-    to ensure high-quality, trustworthy outputs. I’ve applied these approaches to domains like
-    <strong>product specification automation</strong> and <strong>educational tooling</strong>,
-    and I’m actively exploring <strong>cost and latency optimization strategies</strong> for
-    complex, cyclic AI systems.
+    reliability through <strong>LLM-as-a-judge patterns</strong> combined with
+    <strong>programmatic validation techniques</strong> (e.g., Flesch-Kincaid readability),
+    enabling high-quality, trustworthy outputs. I’ve applied these approaches to
+    <strong>product specification automation</strong>, <strong>educational platforms</strong>,
+    and <strong>AI-driven data workflows</strong>, while actively optimizing for
+    <strong>cost, latency, and scalability</strong>.
   </p>
 
   <p>
-    Before moving into AI systems, I built a strong foundation with over a decade of experience in
-    <strong>full-stack development</strong> and <strong>system architecture</strong>. I began with
-    <strong>PHP ecosystems</strong> including Laravel, CodeIgniter, and Symfony, and later evolved
-    into modern web development with deep expertise in the
-    <strong>MERN stack</strong> (MongoDB, Express.js, React.js, Node.js).
+    Alongside my engineering work, I bring strong <strong>product leadership</strong> experience.
+    As a <strong>Certified Scrum Product Owner (CSPO)</strong>, I’ve led cross-functional teams,
+    managed product backlogs, and translated business requirements into scalable technical solutions.
+    I focus on aligning engineering execution with business outcomes, ensuring both
+    <strong>customer impact</strong> and <strong>technical excellence</strong>.
+  </p>
+
+  <p>
+    With over a decade of experience, I’ve built a solid foundation in
+    <strong>full-stack development</strong> and <strong>system architecture</strong>.
+    I started with <strong>PHP ecosystems</strong> (Laravel, CodeIgniter, Symfony)
+    and evolved into modern web technologies with deep expertise in the
+    <strong>MERN stack</strong> (MongoDB, Express.js, React.js, Node.js), developing
+    scalable <strong>AI-driven web and mobile applications</strong> and cloud-based systems.
   </p>
 
   <h2>Key Highlights</h2>
@@ -41,7 +50,7 @@
 
   <h2>Generative AI &amp; Agentic Systems</h2>
   <ul>
-    <li>Building <strong>AI-driven workflows</strong> for web research and product data pipelines</li>
+    <li>Building <strong>AI-powered workflows</strong> for web research and product data pipelines</li>
     <li>Designing <strong>multi-node, cyclic agent architectures with validation loops</strong></li>
     <li>Implementing <strong>RAG (Retrieval-Augmented Generation)</strong> for context-aware systems</li>
     <li>Optimizing <strong>cost, latency, and reliability</strong> in large-scale AI deployments</li>
@@ -49,9 +58,9 @@
 
   <p>
     My approach is grounded in writing <strong>clean, well-architected systems</strong> that balance
-    performance, scalability, and maintainability. I’m particularly interested in the evolving
-    intersection of <strong>software engineering and intelligent systems</strong>, where traditional
-    engineering discipline meets adaptive AI.
+    performance, scalability, and maintainability. I’m particularly interested in the intersection of
+    <strong>software engineering, product strategy, and intelligent systems</strong>—where strong
+    technical foundations meet adaptive, AI-driven innovation.
   </p>
 </section>
 <h3 align="left">Connect with me:</h3>
